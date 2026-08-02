@@ -1,7 +1,7 @@
 # 🦅 Kestrelflare
 
 <p align="center">
-  <img src="./kestrel.avif" alt="Kestrelflare" width="450">
+  <img src="./kestrel.avif" alt="Kestrelflare" width="100%">
 </p>
 
 <p align="center">
