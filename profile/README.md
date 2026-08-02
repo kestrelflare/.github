@@ -12,11 +12,11 @@
 
 ### 🛠️ What We Do
 
-* 🐍 **Python & Web** — applications, APIs, and developer tools
-* 🤖 **AI & Agents** — intelligent applications and automation
-* 📊 **Data & Analytics** — pipelines, analytics, and insights
-* ⚡ **Automation** — workflows and systems that save time
-* ☁️ **Cloud** — scalable, modern infrastructure
+* 🐍 **Python & Web** — custom backend, frontend, and API engineering with clean, maintainable code
+* 🤖 **AI & Agents** — intelligent automation, conversational systems, and AI-powered workflows
+* 📊 **Data & Analytics** — end-to-end analytics, data pipelines, and actionable insight delivery
+* ⚡ **Automation & Deployment** — reliable CI/CD, infrastructure automation, and production-ready delivery
+* ☁️ **Cloud & Operations** — modern cloud architecture, scalable systems, and secure platform operations
 
 ---
 
