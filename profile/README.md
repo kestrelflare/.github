@@ -24,11 +24,11 @@
 
 We share practical experience for developers, businesses, and builders.
 
-**Explore our [repositories →](https://github.com/Kestrelflare)**
+**Explore our [repositories →](https://github.com/kestrelflare)**
 
 ---
 
 <p align="center">
   🦅 <strong>Kestrelflare</strong><br>
-  <sub>Curious. Precise. Adaptable.</sub>
+  <sub>Agile. Precise. Adaptable.</sub>
 </p>
